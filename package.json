@@ -1,6 +1,6 @@
 {
   "name": "@ultimaserve/emoji-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a package of usefull emoji icons to use in node.js or frontend apps",
   "main": "index.js",
   "scripts": {
