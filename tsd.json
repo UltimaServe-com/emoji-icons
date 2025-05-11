@@ -1,0 +1,6 @@
+{
+  "entry": "index.d.ts",
+  "compilerOptions": {
+    "strict": true
+  }
+}

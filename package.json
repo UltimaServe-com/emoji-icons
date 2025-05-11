@@ -1,0 +1,26 @@
+{
+  "name": "@ultimaserve/emoji-icons",
+  "version": "1.0.0",
+  "description": "a package of usefull emoji icons to use in node.js or frontend apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava && tsd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltimaServe-com/emoji-icons.git"
+  },
+  "keywords": [
+    "unicode",
+    "characters",
+    "symbols",
+    "emoji",
+    "icons"
+  ],
+  "author": "Elkbee",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^6.3.0",
+    "tsd": "^0.32.0"
+  }
+}
